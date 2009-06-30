@@ -1,0 +1,5 @@
+Alien::7zip
+
+This is intended to provide a local copy of the 7zip binaries, installed under site-perl.
+
+Current status: skeleton of the module, does not yet to anything useful.
